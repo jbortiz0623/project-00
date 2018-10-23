@@ -15,9 +15,9 @@ You will be working individually for this project, but we'll be guiding you thro
 Your work must:
 
 - Use semantic markup for HTML and CSS, adhering to best practices.
-- Use Flexbox to create a multi-column layout.
+- Use Flexbox/Grid to create a multi-column layout.
 - Be completely responsive.
-- Include separate HTML/CSS /JavaScript files.
+- Include separate HTML/CSS/JavaScript files.
 - Stick with the KISS (Keep It Simple Stupid) and DRY (Don't Repeat Yourself) principles.
 - Use JavaScript or jQuery for DOM manipulation.
 - Be deployed and accessible online. (Justin will cover this on Monday)
