@@ -36,8 +36,9 @@ Your work must:
   - Your biggest wins and challenges.
 - Screenshots of the snippets of code you used to solve particularly interesting problems (think code highlights).
 - An in-class demo of the site that shows off the interactions you worked on.
-
 - A carousel whose images slide to the side on a timer, along with indicators that the user can click to navigate to a particular project.
+- Add validation to the contact form to make sure the user has filled out all required fields before submitting.
+- Add CSS Animations
 
 	![](readme-assets/carousel.gif)
 	- Use the internet to find great carousels! [BootStrap Version](https://getbootstrap.com/docs/4.0/components/carousel/) [Materialize Version](https://materializecss.com/carousel.html)
@@ -88,7 +89,6 @@ No starter code has been provided for this project, as you will be building your
 
 If you're looking for an extra challenge, try tackling some of the tasks below:
 
-* Add validation to the contact form to make sure the user has filled out all required fields before submitting.
 * Add a skills section featuring skills you have/will have learned in the class.
 * Add functionality so that the carousel works with swiping on an iPad/iPhone.
 * Utilize an API.
